@@ -204,3 +204,14 @@ gem 'net-http', '~> 0.3.2'
 gem 'rubyzip', '~> 2.3'
 
 gem 'hcaptcha', '~> 7.1'
+
+# Jaeger Opentelemetry
+gem 'opentelemetry-sdk'
+gem 'opentelemetry-api'
+gem 'opentelemetry-exporter-jaeger'
+gem 'opentelemetry-instrumentation-rack'
+gem 'opentelemetry-instrumentation-rails'
+gem 'opentelemetry-instrumentation-action_pack'
+gem 'opentelemetry-instrumentation-active_job'
+gem 'opentelemetry-instrumentation-active_model_serializers'
+gem 'opentelemetry-instrumentation-active_record'
