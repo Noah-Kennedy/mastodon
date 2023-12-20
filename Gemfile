@@ -204,3 +204,8 @@ gem 'net-http', '~> 0.3.2'
 gem 'rubyzip', '~> 2.3'
 
 gem 'hcaptcha', '~> 7.1'
+
+gem 'opentelemetry-sdk', '~> 1.4', '>= 1.4.1'
+gem 'opentelemetry-exporter-otlp', '~> 0.26.3'
+gem 'opentelemetry-instrumentation-all', '~> 0.60.0'
+gem 'opentelemetry-exporter-jaeger', '~> 0.23.0'
