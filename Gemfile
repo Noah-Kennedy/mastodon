@@ -207,5 +207,6 @@ gem 'hcaptcha', '~> 7.1'
 
 # Jaeger Opentelemetry
 gem 'opentelemetry-sdk'
+gem 'opentelemetry-api'
 gem 'opentelemetry-exporter-jaeger'
 gem 'opentelemetry-instrumentation-all'
